@@ -1,4 +1,4 @@
 MazeSolvingRobot
 ================
 
-A robot created using IR sensors that solves any maze it is put in
+A robot created using IR sensors that solves any 2D maze it is put in
